@@ -1,0 +1,24 @@
+{
+  "name": "Labotorio_10_00195316",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-generator": "^4.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjivar98/Labotorio_10_00195316.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjivar98/Labotorio_10_00195316/issues"
+  },
+  "homepage": "https://github.com/menjivar98/Labotorio_10_00195316#readme"
+}
